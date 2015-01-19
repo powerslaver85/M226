@@ -1,5 +1,5 @@
 //Titel: Fibonacci.java | Author: Ramon Schenk | Date: 02/09/2014
-package eigeneWerkstuecke;
+package javaFibonacci;
 
 /** Fibonacci Klasse
 * 

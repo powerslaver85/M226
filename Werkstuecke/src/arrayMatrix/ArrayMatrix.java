@@ -1,5 +1,5 @@
 //Titel: ArrayMatrix.java | Author: Ramon Schenk | Date: 02/09/2014
-package eigeneWerkstuecke;
+package arrayMatrix;
 
 public class ArrayMatrix {
 	public static void main(String[] args){
