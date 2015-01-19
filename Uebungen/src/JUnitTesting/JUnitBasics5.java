@@ -20,21 +20,22 @@ import org.junit.runners.Suite;
  *
  */
 
-/* Um einen Suite Test zu starten muss mittels
-   RunWith Annotation eine Test Suite gestartet
-   werden. Diese wird gleich darunter mit @Suite
-   gebündelt.
-
-   SYNTAX:
-   RunWith(SuiteName.class) führt die TestSuite aus
+/*
+ * Um einen Suite Test zu starten muss mittels
+ * RunWith Annotation eine Test Suite gestartet
+ * werden. Diese wird gleich darunter mit @Suite
+ * geb&uuml;ndelt.
+ *
+ * SYNTAX:
+ * RunWith(SuiteName.class) f&uuml;hrt die TestSuite aus
 */
 
 @RunWith(Suite.class)
 /* Die Suite Annotation dient dazu mehrere Testklassen in
-   einem sog. Test Suite zu bündeln.
-
-   SYNTAX:
-   @Suite.SuiteClasses({TestClass1.class, TestClass2.class})
+ * einem sog. Test Suite zu bündeln.
+ *
+ * SYNTAX:
+ * @Suite.SuiteClasses({TestClass1.class, TestClass2.class})
  */
 @Suite.SuiteClasses({
         JUnitBasics1.class,

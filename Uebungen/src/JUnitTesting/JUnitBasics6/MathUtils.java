@@ -8,7 +8,7 @@ import org.junit.runners.Suite;
 /**
  * MathUtils -> Hauptklasse
  * JUnit - Parameterisierter Test / @Parameter
- * Beispielklasse f&uuml;r den Umgang mit JUnit 4
+ * Beispielklasse f&uuml;r zum Testen mit JUnit 4
  *
  *
  * Created by Lord Ramon Schenk on 19.01.15.
@@ -18,10 +18,13 @@ import org.junit.runners.Suite;
  */
 
 
-
-
+//Selbsterkl&auml;rend
 public class MathUtils {
-    //Leer
+
+    public static int add(int a, int b) {
+        return a + b;
+    }
+
 }
 
 

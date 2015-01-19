@@ -28,5 +28,5 @@ public class JUnitBasics3 {
     }
 
     //OUTPUT: Test 'JUnitTesting.JUnitBasics3.divisionWithException' ignored (Noch nicht zum testen bereit.)
-    //Der Test wird als Ignored in den Resultaten aufgelistet, nicht als "Bestanden".
+    //Der Test wird als Ignored in den Resultaten aufgelistet, nicht als "Bestanden"..
 }
