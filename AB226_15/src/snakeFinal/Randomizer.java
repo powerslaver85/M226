@@ -1,4 +1,4 @@
-package snakeTesting;
+package snakeFinal;
 import java.util.Random;
 
 /**

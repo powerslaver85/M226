@@ -1,5 +1,5 @@
 
-package snakeTesting;
+package snakeFinal;
 
 import java.awt.*;
 
