@@ -1,5 +1,5 @@
 //Titel: HalloWelt.java | Author: Ramon Schenk | Date: 02/09/2014
-package beispiele;
+package basics;
 
 public class HalloWelt {
 	public static void main (String[] args) {

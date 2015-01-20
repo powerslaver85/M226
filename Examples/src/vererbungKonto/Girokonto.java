@@ -1,4 +1,4 @@
-package konto;
+package vererbungKonto;
 
 //Girokonto.java
 class Girokonto extends Konto {

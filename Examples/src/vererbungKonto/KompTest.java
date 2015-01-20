@@ -1,4 +1,4 @@
-package konto;
+package vererbungKonto;
 
 public class KompTest {
 	public static void main(String[] args) {

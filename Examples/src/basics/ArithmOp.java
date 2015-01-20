@@ -1,4 +1,4 @@
-package beispiele;
+package basics;
 
 //Title:	ArithmOp.Java
 //Author: 	Lrd. R. Schenk

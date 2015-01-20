@@ -1,4 +1,4 @@
-package beispiele;
+package basics;
 
 //Title:	LogOp.Java
 //Author:	Lrd. R. Schenk

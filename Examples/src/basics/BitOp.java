@@ -1,4 +1,4 @@
-package beispiele;
+package basics;
 
 //Title:	BitOp.Java
 //Author:	Lrd. R. Schenk

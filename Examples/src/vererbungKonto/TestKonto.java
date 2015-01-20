@@ -1,5 +1,5 @@
 //Titel: KontoTest.java | Author: Ramon Schenk | Date: 02/09/2014
-package konto;
+package vererbungKonto;
 
 
 public class TestKonto {

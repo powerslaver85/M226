@@ -1,4 +1,4 @@
-package konto;
+package vererbungKonto;
 
 
 class Konto {
