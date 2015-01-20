@@ -75,8 +75,8 @@ public class Kunde {
 	
 	//KONSTRUKTOR
 	//Default
-	Kunde() {};
-	
+	Kunde() {}
+
 	//Mit Parameter
 	Kunde(String name, String vorname, int kundennummer) {	
 		this.name = name;

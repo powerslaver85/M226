@@ -26,9 +26,9 @@ public abstract class GameElement {
 	/**
 	 * isVisible bestimmt ob ein GameElement sichtbar ist oder nicht.
 	 */
-	protected boolean isVisible;;
-	
-	
+	protected boolean isVisible;
+
+
 	/**
 	 * GameElement Constructor
 	 * Legt den Defaultwert der beiden Bool-Zustaende auf "true", um das

@@ -12,7 +12,7 @@ import java.util.Random;
 public class Randomizer {
 
   /** Random-Objekt zur Erzeugung von Zufallszahlen */
-  private static final Random RANDOM = new Random(System.currentTimeMillis());;
+  private static final Random RANDOM = new Random(System.currentTimeMillis());
 
   /**
    * Hilfsmethode zum Erzeugen von Zufallszahlen in einem gegebenen Intervall,
